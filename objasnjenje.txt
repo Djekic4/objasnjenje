@@ -1,0 +1,6 @@
+Usao na github
+isao na create new repository valjda se tako zove
+ukucao naziv repository-a
+kliknuo create 
+uploading an existing file
+zalepio fajl u oznaceno polje i commitovao
